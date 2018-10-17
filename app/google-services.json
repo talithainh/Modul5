@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250795957655",
+    "firebase_url": "https://modul5-1b7d3.firebaseio.com",
+    "project_id": "modul5-1b7d3",
+    "storage_bucket": "modul5-1b7d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250795957655:android:a892c4dcea3e4622",
+        "android_client_info": {
+          "package_name": "com.example.talit.modul5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250795957655-2fcqrn4khdd08mh7qdf16af8fml283vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talit.modul5",
+            "certificate_hash": "bbc3c050b84f8faf7c778623a0c80c14f64022d0"
+          }
+        },
+        {
+          "client_id": "250795957655-phaell4e8on0n373q453ldles3ubl8vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnna9atlhOVdRGX5dEo_I-bVKA-uH-dZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250795957655-phaell4e8on0n373q453ldles3ubl8vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
